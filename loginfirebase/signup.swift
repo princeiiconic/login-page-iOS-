@@ -27,7 +27,7 @@ class signup: UIViewController {
                 
                 if let e = error {
                     self.performSegue(withIdentifier: "home", sender: self)
-                    
+                    //just a trial commit
                 }
               
             }
